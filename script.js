@@ -12,7 +12,7 @@ function zeroFill(number, width) {
 
 const frameCount = 271;
 const currentFrame = (index) =>
-  `https://www.azsoftware.org/AvdanOS-Header/image${zeroFill(
+  `https://azproductions.github.io/AvdanOS-Header/image${zeroFill(
     index.toString(),
     3
   )}.png`;
